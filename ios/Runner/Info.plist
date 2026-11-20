@@ -15,7 +15,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>plinth</string>
+	<string>Plinth</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -66,5 +66,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Plinth reads photos you choose so you can attach them to notes. They stay on this device.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Plinth uses the camera only when you choose to take a photo to attach to a note. Photos stay on this device.</string>
 </dict>
 </plist>
